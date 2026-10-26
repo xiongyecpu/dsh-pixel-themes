@@ -2,6 +2,8 @@
 
 给 **DeepSeek Harness Web GUI** 用的 **21 套水果主题**：配色 + 自绘像素水果小画。
 
+[GitHub](https://github.com/xiongyecpu/dsh-pixel-themes) · [npm](https://www.npmjs.com/package/dsh-pixel-themes) · MIT
+
 ![草莓主题](/Users/neal/Documents/FlY/StyleDSH/pixel-themes/docs/preview-strawberry.png)
 
 | 设置 → 主题风格 | 西瓜主题 |
@@ -41,8 +43,12 @@
 ### CLI / web profile
 
 ```sh
+# 从 npm 安装
+dsh plugin --profile web add dsh-pixel-themes
+
+# 或本地目录 / tarball
 dsh plugin --profile web add /path/to/pixel-themes
-# 或者打包后：dsh plugin --profile web add ./dsh-pixel-themes-1.1.0.tgz
+dsh plugin --profile web add ./dsh-pixel-themes-1.2.1.tgz
 ```
 
 装完重启该 profile 的服务，设置 → 主题风格 即可换。
