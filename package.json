@@ -1,0 +1,72 @@
+{
+  "name": "dsh-pixel-themes",
+  "version": "1.2.1",
+  "description": "21 套水果主题（原创配色 + 自绘像素水果）for DeepSeek Harness Web GUI · 21 fruit themes for the DSH web client",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./package.json": "./package.json"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "inject": [
+        "@deepseek-ai/dsh-client-ui-settings",
+        "@deepseek-ai/dsh-client-ui-theme"
+      ]
+    }
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node --check client.js && node --check index.js",
+    "prepack": "node scripts/build.mjs"
+  },
+  "peerDependencies": {
+    "@deepseek-ai/cordis": "^4.0.1"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "client.js",
+    "cordis.patch.yml",
+    "data/styles.json",
+    "README.md",
+    "NOTICE.md",
+    "LICENSE",
+    "docs/*.png"
+  ],
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "theme",
+    "skin",
+    "pixel-art",
+    "fruit"
+  ],
+  "author": "xiongyecpu",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiongyecpu/dsh-pixel-themes.git"
+  },
+  "homepage": "https://github.com/xiongyecpu/dsh-pixel-themes#readme",
+  "bugs": {
+    "url": "https://github.com/xiongyecpu/dsh-pixel-themes/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "peerDependenciesMeta": {
+    "@deepseek-ai/cordis": {
+      "optional": true
+    }
+  }
+}

@@ -1,0 +1,1096 @@
+{
+ "generatedAt": "2026-10-26",
+ "note": "水果主题：配色与像素画均为本项目原创",
+ "styles": [
+  {
+   "id": "lemon",
+   "name": {
+    "zh": "柠檬",
+    "en": "Lemon"
+   },
+   "colors": {
+    "ink": "#8C7A1B",
+    "grid": "#F9EA9F",
+    "pencil": "#BBAE6B",
+    "accent": "#D9A800",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#6D5E15",
+    "chip": "#FAEEB0",
+    "bubble": "#F2D22E",
+    "bubbleAccent": "#D9A800",
+    "cardFillLight": "#FDF7D9",
+    "cardFillDark": "#4C451C",
+    "deskCardFill": "#FEFBEC",
+    "deskCardBorder": "#FBEFB3",
+    "deskFigure": "#5C5011"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#6D5E15",
+     "b": "#F2D22E",
+     "h": "#F8E68C",
+     "l": "#5F9E3B",
+     "s": "#7A5B00"
+    },
+    "frames": [
+     [
+      "................",
+      ".........ll.....",
+      ".....obbbbo.....",
+      "....obbhbbbo....",
+      "...obbbhhbbbo...",
+      "..oobbbbbbbboo..",
+      "...obbbbbbbbo...",
+      "....obbbbbbo....",
+      ".....obbbbo.....",
+      "................"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "pomelo",
+   "name": {
+    "zh": "柚子",
+    "en": "Pomelo"
+   },
+   "colors": {
+    "ink": "#7C823D",
+    "grid": "#E9EFB9",
+    "pencil": "#AEB382",
+    "accent": "#8FB53A",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#606530",
+    "chip": "#ECF1C4",
+    "bubble": "#D6E06A",
+    "bubbleAccent": "#8FB53A",
+    "cardFillLight": "#F3F6E1",
+    "cardFillDark": "#3F4428",
+    "deskCardFill": "#F9FAF0",
+    "deskCardBorder": "#EDF1C7",
+    "deskFigure": "#515528"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#606530",
+     "b": "#D6E06A",
+     "h": "#E8EEAD",
+     "l": "#4E8A3A",
+     "s": "#6B7A2E"
+    },
+    "frames": [
+     [
+      "................",
+      ".........ll.....",
+      ".....obbbbo.....",
+      "....obbhbbbo....",
+      "...obbbhhbbbo...",
+      "..oobbbbbbbboo..",
+      "...obbbbbbbbo...",
+      "....obbbbbbo....",
+      ".....obbbbo.....",
+      "................"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "lime",
+   "name": {
+    "zh": "青柠",
+    "en": "Lime"
+   },
+   "colors": {
+    "ink": "#517325",
+    "grid": "#CAE5A7",
+    "pencil": "#91AA72",
+    "accent": "#6FA62A",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#3F591C",
+    "chip": "#D3EAB6",
+    "bubble": "#8CC63F",
+    "bubbleAccent": "#6FA62A",
+    "cardFillLight": "#EAF5DC",
+    "cardFillDark": "#324221",
+    "deskCardFill": "#F4FAEE",
+    "deskCardBorder": "#D5EBB9",
+    "deskFigure": "#354B18"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#3F591C",
+     "b": "#8CC63F",
+     "h": "#C0E095",
+     "l": "#3F7A2A",
+     "s": "#2E4E1A"
+    },
+    "frames": [
+     [
+      "...........l....",
+      "..........ll....",
+      "....obbbbbbo....",
+      "...obbbhbbbbo...",
+      "...obbbhhbbbo...",
+      "...obbbbbbbbo...",
+      "...obbbbbbbbo...",
+      "...obbbbbbbbo...",
+      "....obbbbbbo....",
+      "................"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "watermelon",
+   "name": {
+    "zh": "西瓜",
+    "en": "Watermelon"
+   },
+   "colors": {
+    "ink": "#872E3D",
+    "grid": "#DEB4B4",
+    "pencil": "#A97C7F",
+    "accent": "#2E7D32",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#682430",
+    "chip": "#DDC4BF",
+    "bubble": "#E8506A",
+    "bubbleAccent": "#2E7D32",
+    "cardFillLight": "#D9E8DA",
+    "cardFillDark": "#192F1D",
+    "deskCardFill": "#ECF4EC",
+    "deskCardBorder": "#DCC7C1",
+    "deskFigure": "#581E28"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#682430",
+     "b": "#E8506A",
+     "h": "#F29FAD",
+     "l": "#2E7D32",
+     "s": "#2B2B2B"
+    },
+    "frames": [
+     [
+      "................",
+      "................",
+      "..llllllllllll..",
+      "...obbobbobbo...",
+      "....obbobbbo....",
+      ".....obbobo.....",
+      "......obbo......",
+      ".......oo.......",
+      "................",
+      "................"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "strawberry",
+   "name": {
+    "zh": "草莓",
+    "en": "Strawberry"
+   },
+   "colors": {
+    "ink": "#832432",
+    "grid": "#F2A6B2",
+    "pencil": "#B5717C",
+    "accent": "#C2273F",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#661C27",
+    "chip": "#F4B6C0",
+    "bubble": "#E23E57",
+    "bubbleAccent": "#C2273F",
+    "cardFillLight": "#FADCE1",
+    "cardFillDark": "#481E27",
+    "deskCardFill": "#FCEEF0",
+    "deskCardBorder": "#F5B9C3",
+    "deskFigure": "#561821"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#661C27",
+     "b": "#E23E57",
+     "h": "#EF95A3",
+     "l": "#3E8E41",
+     "s": "#FFE08A"
+    },
+    "frames": [
+     [
+      ".......o........",
+      "......lll.......",
+      "...obbbbbbo.....",
+      "..obbhhhbbbo....",
+      "..obbbbsbsbo....",
+      "..obbsbbsbbo....",
+      "...obbsbbbs.....",
+      "....obbbso......",
+      ".....obbo.......",
+      "......oo........"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "blueberry",
+   "name": {
+    "zh": "蓝莓",
+    "en": "Blueberry"
+   },
+   "colors": {
+    "ink": "#2B3974",
+    "grid": "#ACB7E6",
+    "pencil": "#7680AA",
+    "accent": "#2E3E8E",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#212D5A",
+    "chip": "#BAC4EA",
+    "bubble": "#4A63C8",
+    "bubbleAccent": "#2E3E8E",
+    "cardFillLight": "#DEE3F5",
+    "cardFillDark": "#212844",
+    "deskCardFill": "#EEF1FA",
+    "deskCardBorder": "#BDC7EB",
+    "deskFigure": "#1C264C"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#212D5A",
+     "b": "#4A63C8",
+     "h": "#9BA9E1",
+     "l": "#3E6B3E",
+     "s": "#E6ECFF"
+    },
+    "frames": [
+     [
+      "................",
+      ".......oo.......",
+      ".......ss.......",
+      "....obbbbo......",
+      "...obbhhbbo.....",
+      "..obbbhbbbbo....",
+      "..obbbbbbbbo....",
+      "...obbbbbbo.....",
+      "....obbbbo......",
+      "................"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "grape",
+   "name": {
+    "zh": "葡萄",
+    "en": "Grape"
+   },
+   "colors": {
+    "ink": "#523575",
+    "grid": "#CBB3E6",
+    "pencil": "#927DAB",
+    "accent": "#6A3AA0",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#40295A",
+    "chip": "#D5C1EA",
+    "bubble": "#8E5BC9",
+    "bubbleAccent": "#6A3AA0",
+    "cardFillLight": "#EBE1F5",
+    "cardFillDark": "#322645",
+    "deskCardFill": "#F5F0FA",
+    "deskCardBorder": "#D7C4EB",
+    "deskFigure": "#36234C"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#40295A",
+     "b": "#8E5BC9",
+     "h": "#C1A5E1",
+     "l": "#4E8A3A",
+     "s": "#FFFFFF"
+    },
+    "frames": [
+     [
+      ".......ll.......",
+      "....o...o...o...",
+      "...hbo.hbo.hbo..",
+      "..obbbobbbobbbo.",
+      "...obooobooobo..",
+      "....ohboohboo...",
+      "....obbbobbbo...",
+      ".....obhbobo....",
+      "......obbbo.....",
+      ".......obo......"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "apple",
+   "name": {
+    "zh": "苹果",
+    "en": "Apple"
+   },
+   "colors": {
+    "ink": "#7E2222",
+    "grid": "#EDA5A5",
+    "pencil": "#B17070",
+    "accent": "#B01F1F",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#621A1A",
+    "chip": "#F1B5B5",
+    "bubble": "#D93A3A",
+    "bubbleAccent": "#B01F1F",
+    "cardFillLight": "#F8DCDC",
+    "cardFillDark": "#461D1F",
+    "deskCardFill": "#FCEEEE",
+    "deskCardBorder": "#F1B8B8",
+    "deskFigure": "#521616"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#621A1A",
+     "b": "#D93A3A",
+     "h": "#EA9393",
+     "l": "#4E8A3A",
+     "s": "#FFFFFF"
+    },
+    "frames": [
+     [
+      "................",
+      "........oll.....",
+      ".......o........",
+      "....obhhbo......",
+      "...obbhhbbo.....",
+      "..obbbbbbbbo....",
+      "..obbbbbbbbo....",
+      "...obbbbbbo.....",
+      "...obbbbbbo.....",
+      "....obbbbo......"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "peach",
+   "name": {
+    "zh": "蜜桃",
+    "en": "Peach"
+   },
+   "colors": {
+    "ink": "#8F5A4A",
+    "grid": "#FCD1C4",
+    "pencil": "#BE988C",
+    "accent": "#D2705A",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#6F4639",
+    "chip": "#FCD9CF",
+    "bubble": "#F79B7F",
+    "bubbleAccent": "#D2705A",
+    "cardFillLight": "#FEEDE8",
+    "cardFillDark": "#4E3631",
+    "deskCardFill": "#FEF6F4",
+    "deskCardBorder": "#FCDBD1",
+    "deskFigure": "#5E3B30"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#6F4639",
+     "b": "#F79B7F",
+     "h": "#FBC8B9",
+     "l": "#4E8A3A",
+     "s": "#A03A2C"
+    },
+    "frames": [
+     [
+      "................",
+      "........oll.....",
+      "................",
+      "....obhhbo......",
+      "...obbhbhbo.....",
+      "..obbbbbhbbo....",
+      "..obbbbbhbbo....",
+      "...obbbbbbo.....",
+      "...obbbbbbo.....",
+      "....obbbbo......"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "cherry",
+   "name": {
+    "zh": "樱桃",
+    "en": "Cherry"
+   },
+   "colors": {
+    "ink": "#680A1B",
+    "grid": "#D5929D",
+    "pencil": "#9D5F6A",
+    "accent": "#7A0F1E",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#510815",
+    "chip": "#DBA5AE",
+    "bubble": "#B3122F",
+    "bubbleAccent": "#7A0F1E",
+    "cardFillLight": "#E7D4D6",
+    "cardFillDark": "#2D1218",
+    "deskCardFill": "#F3EAEA",
+    "deskCardBorder": "#DCA9B1",
+    "deskFigure": "#440712"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#510815",
+     "b": "#B3122F",
+     "h": "#D57D8D",
+     "l": "#3E8E41",
+     "s": "#FFFFFF"
+    },
+    "frames": [
+     [
+      "................",
+      "......llo.......",
+      ".....o...o......",
+      ".....o....oo....",
+      "...obbbo.obbbo..",
+      "...bhbbb.bhbbb..",
+      "..obbbbbobbbbbo.",
+      "...bbbbb.bbbbb..",
+      "...obbbo.obbbo..",
+      ".....o.....o...."
+     ]
+    ]
+   }
+  },
+  {
+   "id": "orange",
+   "name": {
+    "zh": "橙子",
+    "en": "Orange"
+   },
+   "colors": {
+    "ink": "#8E5110",
+    "grid": "#FACA97",
+    "pencil": "#BD9163",
+    "accent": "#D06E00",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#6E3F0D",
+    "chip": "#FBD3A9",
+    "bubble": "#F58C1C",
+    "bubbleAccent": "#D06E00",
+    "cardFillLight": "#FDEAD6",
+    "cardFillDark": "#4D3218",
+    "deskCardFill": "#FEF4EA",
+    "deskCardBorder": "#FBD5AD",
+    "deskFigure": "#5D350B"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#6E3F0D",
+     "b": "#F58C1C",
+     "h": "#FAC082",
+     "l": "#3E8E41",
+     "s": "#FFFFFF"
+    },
+    "frames": [
+     [
+      "................",
+      "........oll.....",
+      "....obbobo......",
+      "...obbhhbbo.....",
+      "..obbbhbbbbo....",
+      "..obbbbbhbbo....",
+      "..obbbbbhbbo....",
+      "..obbbbbhbbo....",
+      "...obbbbbbo.....",
+      "....obbbbo......"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "mango",
+   "name": {
+    "zh": "芒果",
+    "en": "Mango"
+   },
+   "colors": {
+    "ink": "#8B5D23",
+    "grid": "#F7D2A6",
+    "pencil": "#BA9971",
+    "accent": "#D97A14",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#6C481B",
+    "chip": "#F8DAB6",
+    "bubble": "#F0A03C",
+    "bubbleAccent": "#D97A14",
+    "cardFillLight": "#FBECDC",
+    "cardFillDark": "#4A351F",
+    "deskCardFill": "#FDF6EE",
+    "deskCardBorder": "#F9DBB9",
+    "deskFigure": "#5B3D17"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#6C481B",
+     "b": "#F0A03C",
+     "h": "#F7CB94",
+     "l": "#3E8E41",
+     "s": "#C0392B"
+    },
+    "frames": [
+     [
+      "................",
+      ".........oll....",
+      "................",
+      "....obhhbo......",
+      "..obbbhhbbbo....",
+      "..obbbbbbbbo....",
+      "..obbbbbbbbo....",
+      "..obbbbbbbbo....",
+      "...obbbbbbo.....",
+      ".....obbo......."
+     ]
+    ]
+   }
+  },
+  {
+   "id": "kiwi",
+   "name": {
+    "zh": "猕猴桃",
+    "en": "Kiwi"
+   },
+   "colors": {
+    "ink": "#45622B",
+    "grid": "#C1D8AC",
+    "pencil": "#899E76",
+    "accent": "#4E8A2E",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#364C21",
+    "chip": "#CCDFBA",
+    "bubble": "#77A94A",
+    "bubbleAccent": "#4E8A2E",
+    "cardFillLight": "#E7F0DE",
+    "cardFillDark": "#2C3A24",
+    "deskCardFill": "#F3F8EE",
+    "deskCardBorder": "#CEE0BD",
+    "deskFigure": "#2D401C"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#364C21",
+     "b": "#77A94A",
+     "h": "#B4D09B",
+     "l": "#3E6B2A",
+     "s": "#2E2E1A"
+    },
+    "frames": [
+     [
+      "................",
+      "................",
+      "....obbbbbbo....",
+      "...obbbbsbbbo...",
+      "...obbbsbsbbo...",
+      "...obbsbhbsbo...",
+      "...obbbsbsbbo...",
+      "...obbbbsbbbo...",
+      "....obbbbbbo....",
+      "................"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "pineapple",
+   "name": {
+    "zh": "菠萝",
+    "en": "Pineapple"
+   },
+   "colors": {
+    "ink": "#7E6722",
+    "grid": "#EADCA5",
+    "pencil": "#AFA170",
+    "accent": "#A87A00",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#62501A",
+    "chip": "#ECE2B5",
+    "bubble": "#D9B23A",
+    "bubbleAccent": "#A87A00",
+    "cardFillLight": "#F2F1DC",
+    "cardFillDark": "#3D3D1F",
+    "deskCardFill": "#F8F8EE",
+    "deskCardBorder": "#ECE3B8",
+    "deskFigure": "#524416"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#62501A",
+     "b": "#D9B23A",
+     "h": "#EAD593",
+     "l": "#4E8A3A",
+     "s": "#8A5A00"
+    },
+    "frames": [
+     [
+      "................",
+      "......llll......",
+      "......llll......",
+      "...obbbbbbo.....",
+      "..obbbsbsbbo....",
+      "..obbbbsbsbo....",
+      "..obbbsbsbbo....",
+      "...obbbsbbo.....",
+      "....obbbbo......",
+      "................"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "watermelon-ice",
+   "name": {
+    "zh": "西瓜冰",
+    "en": "Melon Ice"
+   },
+   "colors": {
+    "ink": "#8C515D",
+    "grid": "#EBCED1",
+    "pencil": "#B39498",
+    "accent": "#C94E66",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#6D3F48",
+    "chip": "#EAD8D8",
+    "bubble": "#F28CA0",
+    "bubbleAccent": "#C94E66",
+    "cardFillLight": "#E8F0EA",
+    "cardFillDark": "#2E3A34",
+    "deskCardFill": "#F4F8F4",
+    "deskCardBorder": "#EADADA",
+    "deskFigure": "#5C353D"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#6D3F48",
+     "b": "#F28CA0",
+     "h": "#F8C0CB",
+     "l": "#2E7D32",
+     "s": "#3A3A3A"
+    },
+    "frames": [
+     [
+      "................",
+      "................",
+      "...llllllllll...",
+      "...ohhhhhhhho...",
+      "...ohhohhohho...",
+      "....obbbobbo....",
+      ".....obbbbo.....",
+      "......oooo......",
+      "................",
+      "................"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "banana",
+   "name": {
+    "zh": "香蕉",
+    "en": "Banana"
+   },
+   "colors": {
+    "ink": "#755E2B",
+    "grid": "#E3D2AA",
+    "pencil": "#A99975",
+    "accent": "#8A6A00",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#5A4921",
+    "chip": "#E7D9B9",
+    "bubble": "#C9A24A",
+    "bubbleAccent": "#8A6A00",
+    "cardFillLight": "#F1EADC",
+    "cardFillDark": "#3B321F",
+    "deskCardFill": "#F8F4EE",
+    "deskCardBorder": "#E8DABC",
+    "deskFigure": "#4C3E1C"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#5A4921",
+     "b": "#C9A24A",
+     "h": "#E1CC9B",
+     "l": "#6A6A2A",
+     "s": "#3A3A1A"
+    },
+    "frames": [
+     [
+      "................",
+      "................",
+      "..o..........o..",
+      "..bo........ob..",
+      "..bboo....oobb..",
+      "..obbboooobbbo..",
+      "...obbhhhhbbo...",
+      "....oobbbboo....",
+      "......oooo......",
+      "................"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "dragon-fruit",
+   "name": {
+    "zh": "火龙果",
+    "en": "Dragon Fruit"
+   },
+   "colors": {
+    "ink": "#872556",
+    "grid": "#F5A7CE",
+    "pencil": "#B87295",
+    "accent": "#B0166A",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#681C43",
+    "chip": "#F6B6D7",
+    "bubble": "#E83F94",
+    "bubbleAccent": "#B0166A",
+    "cardFillLight": "#FBDCEC",
+    "cardFillDark": "#4A1E37",
+    "deskCardFill": "#FDEEF6",
+    "deskCardBorder": "#F7B9D9",
+    "deskFigure": "#581838"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#681C43",
+     "b": "#E83F94",
+     "h": "#F295C4",
+     "l": "#4E8A3A",
+     "s": "#FFFFFF"
+    },
+    "frames": [
+     [
+      "................",
+      "......l..l......",
+      "...oblbbbbl.....",
+      "..oblbbbbbbl....",
+      "..olbbbsbsbol...",
+      "..oblbbbsbbl....",
+      "..obbbsbbbso....",
+      "...obbbbsbo.....",
+      "....obbbbo......",
+      "................"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "pomegranate",
+   "name": {
+    "zh": "石榴",
+    "en": "Pomegranate"
+   },
+   "colors": {
+    "ink": "#5C1829",
+    "grid": "#CD9BA8",
+    "pencil": "#966773",
+    "accent": "#6E1330",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#471320",
+    "chip": "#D4ACB6",
+    "bubble": "#9E2A46",
+    "bubbleAccent": "#6E1330",
+    "cardFillLight": "#E5D5DA",
+    "cardFillDark": "#2A131D",
+    "deskCardFill": "#F2EAEC",
+    "deskCardBorder": "#D5AFB9",
+    "deskFigure": "#3C101B"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#471320",
+     "b": "#9E2A46",
+     "h": "#CA8A99",
+     "l": "#3E8E41",
+     "s": "#FFE08A"
+    },
+    "frames": [
+     [
+      "................",
+      "................",
+      "......llll......",
+      "...obbbbbbo.....",
+      "..obbbhsbsbo....",
+      "..obbbsbsbso....",
+      "..obbbbbsbbo....",
+      "...obbbbbbo.....",
+      "....obbbbo......",
+      "................"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "avocado",
+   "name": {
+    "zh": "牛油果",
+    "en": "Avocado"
+   },
+   "colors": {
+    "ink": "#405129",
+    "grid": "#BDCAAB",
+    "pencil": "#859175",
+    "accent": "#A8792E",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#313F20",
+    "chip": "#C8D3BA",
+    "bubble": "#6E8B47",
+    "bubbleAccent": "#A8792E",
+    "cardFillLight": "#E5EADE",
+    "cardFillDark": "#2A3223",
+    "deskCardFill": "#F2F4EE",
+    "deskCardBorder": "#CBD5BD",
+    "deskFigure": "#2A351B"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#313F20",
+     "b": "#6E8B47",
+     "h": "#AFBF9A",
+     "l": "#3E6B2A",
+     "s": "#7A4A1B"
+    },
+    "frames": [
+     [
+      "................",
+      ".......ll.......",
+      ".....obbo.......",
+      "....obbbbo......",
+      "...obbbbbbo.....",
+      "..obbbbbsbbo....",
+      "..obbbbshsbo....",
+      "..obbbbbsbbo....",
+      "...obbbbbbo.....",
+      "....obbbbo......"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "coconut",
+   "name": {
+    "zh": "椰子",
+    "en": "Coconut"
+   },
+   "colors": {
+    "ink": "#624225",
+    "grid": "#D8BEA7",
+    "pencil": "#9E8672",
+    "accent": "#7A4A1B",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#4C331C",
+    "chip": "#DFC9B6",
+    "bubble": "#A9713F",
+    "bubbleAccent": "#7A4A1B",
+    "cardFillLight": "#F0E5DC",
+    "cardFillDark": "#392B21",
+    "deskCardFill": "#F8F2EE",
+    "deskCardBorder": "#E0CBB9",
+    "deskFigure": "#402B18"
+   },
+   "bubbles": [
+    "·",
+    "∘",
+    "✦"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#4C331C",
+     "b": "#A9713F",
+     "h": "#D0B195",
+     "l": "#4E8A3A",
+     "s": "#3A2410"
+    },
+    "frames": [
+     [
+      "................",
+      "................",
+      "...obbbbbbo.....",
+      "..obbbhhsbbo....",
+      "..obbbbsssbo....",
+      "..obbbbbbbbo....",
+      "..obbbbbbbbo....",
+      "...obbbbbbo.....",
+      "....obbbbo......",
+      "................"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "lychee",
+   "name": {
+    "zh": "荔枝",
+    "en": "Lychee"
+   },
+   "colors": {
+    "ink": "#87414A",
+    "grid": "#F5BDC4",
+    "pencil": "#B8868C",
+    "accent": "#B03A4A",
+    "onAccent": "#FFFFFF",
+    "red": "#C63A3A",
+    "inkDark": "#693239",
+    "chip": "#F7C9CF",
+    "bubble": "#E9707F",
+    "bubbleAccent": "#B03A4A",
+    "cardFillLight": "#FBE5E8",
+    "cardFillDark": "#4A2B31",
+    "deskCardFill": "#FDF2F4",
+    "deskCardBorder": "#F7CBD1",
+    "deskFigure": "#592B30"
+   },
+   "bubbles": [
+    "·"
+   ],
+   "sprite": {
+    "palette": {
+     "o": "#693239",
+     "b": "#E9707F",
+     "h": "#F3B0B9",
+     "l": "#3E8E41",
+     "s": "#FFF3F5"
+    },
+    "frames": [
+     [
+      "................",
+      ".........ll.....",
+      "....obbbbbbo....",
+      "...obbsbbsbbo...",
+      "...obbbsbbsbo...",
+      "...obbsbbbbbo...",
+      "...obbbbbsbbo...",
+      "...obbbsbbbbo...",
+      "....obbbbbbo....",
+      "................"
+     ]
+    ]
+   }
+  }
+ ]
+}

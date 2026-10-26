@@ -1,0 +1,5 @@
+# pixel-themes bundle patch: 把本包的公开 dsh.client entry 插进 profile 的插件表。
+# 安装：dsh plugin --profile <name> add <path-or-git-url>
+- insert:
+    - id: pixel-themes
+      name: 'dsh-pixel-themes'
