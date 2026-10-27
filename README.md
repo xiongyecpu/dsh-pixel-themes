@@ -2,7 +2,9 @@
 
 给 **DeepSeek Harness Web GUI** 用的 **21 套水果主题**：配色 + 自绘像素水果小画。
 
-[GitHub](https://github.com/xiongyecpu/dsh-pixel-themes) · [npm](https://www.npmjs.com/package/dsh-pixel-themes) · MIT
+[![npm version](https://img.shields.io/npm/v/dsh-pixel-themes.svg)](https://www.npmjs.com/package/dsh-pixel-themes)
+[![license](https://img.shields.io/npm/l/dsh-pixel-themes.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/xiongyecpu/dsh-pixel-themes.svg)](https://github.com/xiongyecpu/dsh-pixel-themes)
 
 ![草莓主题](/Users/neal/Documents/FlY/StyleDSH/pixel-themes/docs/preview-strawberry.png)
 
