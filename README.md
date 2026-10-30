@@ -6,7 +6,7 @@
 [![license](https://img.shields.io/npm/l/dsh-pixel-themes.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/xiongyecpu/dsh-pixel-themes.svg)](https://github.com/xiongyecpu/dsh-pixel-themes)
 
-![草莓主题](/Users/neal/Documents/FlY/StyleDSH/pixel-themes/docs/preview-strawberry.png)
+![草莓主题](docs/preview-strawberry.png)
 
 | 设置 → 主题风格 | 西瓜主题 |
 |---|---|

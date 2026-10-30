@@ -1,5 +1,8 @@
 # Changelog
 
+## 未发布
+- 等审门面：仓根补 `screenshots.json`，`docs/icon-180.png` 方形 icon
+
 ## 1.2.1
 - 隐藏排查用的「自检」面板（默认不显示，`localStorage.setItem('pt-debug','1')` 才出现）
 - 界面语言改为跟随 DSH 的 `<html lang>`，中文界面不再显示英文
